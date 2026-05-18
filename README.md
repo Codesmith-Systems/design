@@ -185,7 +185,7 @@ new-theme-name/DESIGN.md
 
 If this project helps you, you can support development with USDT on Tron/TRC20.
 
-![USDT](https://cryptologos.cc/logos/tether-usdt-logo.svg?v=040)
+<img src="https://cryptologos.cc/logos/tether-usdt-logo.svg?v=040" alt="USDT" width="32" height="32">
 
 USDT TRC20 wallet:
 
@@ -221,7 +221,7 @@ https://www.pexels.com/license/
 | Pine Valley | Pexels / Nedzad | 582833 | https://www.pexels.com/photo/582833/ |
 | Sahara | Pexels / Douglas Santos | 6930285 | https://www.pexels.com/photo/6930285/ |
 | Salt & Pepper | Pexels / Alex Dos Santos | 33944144 | https://www.pexels.com/photo/33944144/ |
-| Stone | Pexels / Polina ⠀ | 6788504 | https://www.pexels.com/photo/6788504/ |
+| Stone | Pexels / Polina | 6788504 | https://www.pexels.com/photo/6788504/ |
 | Stormy | Pexels / Damir K . | 16533892 | https://www.pexels.com/photo/16533892/ |
 | Sunset | Pexels / Anton Kudryashov | 9841932 | https://www.pexels.com/photo/9841932/ |
 | Tidal Drift | Pexels / Canary Vista ES | 35579610 | https://www.pexels.com/photo/35579610/ |
