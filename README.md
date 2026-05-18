@@ -220,3 +220,5 @@ Note: If you replace any image, update this table with the new creator, source U
 Project code and documentation can be released under the MIT License unless you choose a different license before publishing.
 
 Images remain subject to the Pexels License and are credited above.
+
+A little support goes a long way! If you’d like to help us keep creating, you can do so at https://ko-fi.com/codesmith
