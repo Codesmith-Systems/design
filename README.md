@@ -181,8 +181,6 @@ new-theme-name/DESIGN.md
 
 4. Test the gallery and preview page.
 
-Please send only USDT on the TRC20 network to this address.
-
 ## Image Credits
 
 All images are loaded from Pexels and are marked as free to use under the Pexels License:
