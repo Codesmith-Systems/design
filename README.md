@@ -181,18 +181,6 @@ new-theme-name/DESIGN.md
 
 4. Test the gallery and preview page.
 
-## Buy Me a Coffee
-
-If this project helps you, you can support development with USDT on Tron/TRC20.
-
-<img src="https://cryptologos.cc/logos/tether-usdt-logo.svg?v=040" alt="USDT" width="32" height="32">
-
-USDT TRC20 wallet:
-
-```text
-TSgwbA11ZexsM2jhw6LvzfaKd2x8xkJWC3
-```
-
 Please send only USDT on the TRC20 network to this address.
 
 ## Image Credits
